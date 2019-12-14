@@ -3,7 +3,9 @@ This is a note taking app which is able to write ,save & delete note.
 
 
 ## Installation
-Git clone the repo on your local computer and run server.js in Git bash shell
+Git clone the repo on your local computer and run server.js in Git bash shell or use link below
+
+https://evening-spire-86768.herokuapp.com/
 
 
 ## Usage 
